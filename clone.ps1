@@ -21,6 +21,7 @@ git clone https://github.com/chrisfaria/WorkourApp.git
 git clone https://github.com/chrisfaria/Software-Architecture-Guide.git
 git clone https://github.com/chrisfaria/SignalRNotificationHub.git
 git clone https://github.com/chrisfaria/xamarin-rest-template.git
+git clone https://github.com/chrisfaria/git-backup.git
 
 cd ..
 
